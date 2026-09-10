@@ -1,0 +1,21 @@
+station_id,scenario,recommended_capacity
+California_Garage_01,Current (0%),50
+California_Garage_01,Moderate Growth (+10%),55
+California_Garage_01,High Growth (+25%),60
+California_Garage_01,Very High Growth (+50%),>60
+California_Garage_02,Current (0%),20
+California_Garage_02,Moderate Growth (+10%),20
+California_Garage_02,High Growth (+25%),25
+California_Garage_02,Very High Growth (+50%),30
+LIGO_01,Current (0%),5
+LIGO_01,Moderate Growth (+10%),5
+LIGO_01,High Growth (+25%),5
+LIGO_01,Very High Growth (+50%),5
+N_Wilson_Garage_01,Current (0%),15
+N_Wilson_Garage_01,Moderate Growth (+10%),15
+N_Wilson_Garage_01,High Growth (+25%),15
+N_Wilson_Garage_01,Very High Growth (+50%),20
+S_Wilson_Garage_01,Current (0%),5
+S_Wilson_Garage_01,Moderate Growth (+10%),5
+S_Wilson_Garage_01,High Growth (+25%),5
+S_Wilson_Garage_01,Very High Growth (+50%),10

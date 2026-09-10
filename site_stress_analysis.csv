@@ -1,0 +1,6 @@
+station_id,average_occupancy,p95_occupancy,maximum_occupancy,stress_level
+California_Garage_01,17.95,41.0,51,High
+California_Garage_02,5.86,14.0,21,Medium
+LIGO_01,1.01,3.0,3,Low
+N_Wilson_Garage_01,4.54,9.0,13,Low
+S_Wilson_Garage_01,1.81,4.0,4,Low

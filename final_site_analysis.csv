@@ -1,0 +1,6 @@
+station_id,current_required_capacity,25pct_growth_capacity,50pct_growth_capacity,recommendation,average_occupancy,p95_occupancy,maximum_occupancy,stress_level
+California_Garage_01,50,60,>60,Expand Capacity,17.95,41.0,51,High
+California_Garage_02,20,25,30,Plan Moderate Expansion,5.86,14.0,21,Medium
+LIGO_01,5,5,5,Capacity Adequate,1.01,3.0,3,Low
+N_Wilson_Garage_01,15,15,20,Capacity Adequate,4.54,9.0,13,Low
+S_Wilson_Garage_01,5,5,10,Capacity Adequate,1.81,4.0,4,Low
