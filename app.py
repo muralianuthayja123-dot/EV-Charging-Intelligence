@@ -73,14 +73,9 @@ hourly, final_analysis, future_capacity, stress, capacity = load_data()
 
 @st.cache_resource
 def load_model():
-
-    return joblib.load(
-        APP_PATH + "best_demand_model.pkl"
-    )
-
+    return joblib.load("./best_demand_model.pkl")
 
 model = load_model()
-
 
 # =========================================================
 # TITLE
